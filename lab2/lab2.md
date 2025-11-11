@@ -98,7 +98,7 @@ end
 
 ![зграя вовків](wolfpack.png)
 
-Фінальний код моделі та її інтерфейс доступні за [посиланням](example-model.nlogo). 
+Фінальний код моделі та її інтерфейс доступні за [посиланням]([example-model.nlogo](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogox)). 
 
 ## Обчислювальні експерименти
 Для дослідження впливу "зграй" вовків на модель було проведено експеримент з 1 лр, з впливу початкової кількості вовків на розмір обох популяцій по завершенню дослідження.
