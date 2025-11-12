@@ -81,7 +81,7 @@
 <tr><td>2%</td><td>2281</td><td>20</td></tr>
 <tr><td>4%</td><td>2087</td><td>39</td></tr>
 <tr><td>6%</td><td>276</td><td>355</td></tr>
-<tr><td>8%</td>58<td></td><td>249</td></tr>
+<tr><td>8%</td><td>58</td><td>249</td></tr>
 <tr><td>10%</td><td>52</td><td>462</td></tr>
 </tbody>
 </table>
